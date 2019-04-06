@@ -23,7 +23,7 @@ void loop() {       // put your main code here, to run repeatedly
   seqxuence();
 }
 
-void seqxuence() {
+void seqxuence() {    //These sequences are just my test sequences. Not expected to actually stick around..
   int timer;
   switch (seqx) {
     case '1': {
